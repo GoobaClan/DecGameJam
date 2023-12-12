@@ -9,7 +9,15 @@
 				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/CoreGame/Blueprints/BP_BrawlGameMode.uasset",
 				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/StarterContent/Materials/M_Metal_Chrome.uasset",
 				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/StarterContent/Materials/M_Metal_Gold.uasset",
-				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/CoreGame/Input/IMC_Player1.uasset"
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/CoreGame/Input/IMC_Player1.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/UI_Widgets/L_MainMenu_BuiltData.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/UI_Widgets/L_MainMenu.umap",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/ModularPieces/Grey2.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/ModularPieces/Grey3.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/ModularPieces/InvisWall.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/ModularPieces/RoofOrange.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/ModularPieces/RoofOrange2.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/ModularPieces/RoofOrange3.uasset"
 			]
 		}
 	]
