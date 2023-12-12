@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/s012349l/Documents/GitHub/DecGameJam/PortfolioJam/Content/Characters/Particles/NS_Stun.uasset",
+				"C:/Users/s012349l/Documents/GitHub/DecGameJam/PortfolioJam/Content/CoreGame/Icons/M_Birds.uasset",
+				"C:/Users/s012349l/Documents/GitHub/DecGameJam/PortfolioJam/Content/Characters/Particles/NS_Hit.uasset",
 				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/CoreGame/Blueprints/BP_BrawlGameMode.uasset",
 				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/StarterContent/Materials/M_Metal_Chrome.uasset",
