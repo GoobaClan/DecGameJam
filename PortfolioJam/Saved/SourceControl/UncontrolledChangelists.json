@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/b025683l/Documents/GitHub/DecGameJam/PortfolioJam/Content/UI_Widgets/WBP_HudUI.uasset",
+				"C:/Users/b025683l/Documents/GitHub/DecGameJam/PortfolioJam/Content/Characters/BP_Character.uasset",
+				"C:/Users/b025683l/Documents/GitHub/DecGameJam/PortfolioJam/Content/Characters/BP_Actors/BPC_Knight.uasset",
+				"C:/Users/b025683l/Documents/GitHub/DecGameJam/PortfolioJam/Content/Characters/BP_Actors/BPC_Monk.uasset",
+				"C:/Users/b025683l/Documents/GitHub/DecGameJam/PortfolioJam/Content/Characters/BP_Actors/BPC_MR_T.uasset",
+				"C:/Users/b025683l/Documents/GitHub/DecGameJam/PortfolioJam/Content/Characters/BP_Actors/BPC_Paladin.uasset",
+				"C:/Users/b025683l/Documents/GitHub/DecGameJam/PortfolioJam/Content/Characters/BP_Actors/BPC_Viking.uasset",
 				"C:/Users/s012349l/Documents/GitHub/DecGameJam/PortfolioJam/Content/Characters/Particles/NS_Stun.uasset",
 				"C:/Users/s012349l/Documents/GitHub/DecGameJam/PortfolioJam/Content/CoreGame/Icons/M_Birds.uasset",
 				"C:/Users/s012349l/Documents/GitHub/DecGameJam/PortfolioJam/Content/Characters/Particles/NS_Hit.uasset",
