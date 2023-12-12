@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/CoreGame/Blueprints/BP_BrawlGameMode.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/StarterContent/Materials/M_Metal_Chrome.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/StarterContent/Materials/M_Metal_Gold.uasset",
+				"C:/Users/p016550l/Documents/GitHub/DecGameJam/PortfolioJam/Content/CoreGame/Input/IMC_Player1.uasset"
+			]
+		}
+	]
+}
